@@ -16,6 +16,7 @@
 		FA705958262EC70100D83DEF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FA705957262EC70100D83DEF /* main.m */; };
 		FA705962262ECA9200D83DEF /* Bird.m in Sources */ = {isa = PBXBuildFile; fileRef = FA705961262ECA9200D83DEF /* Bird.m */; };
 		FA705968262ECC3900D83DEF /* Flock.m in Sources */ = {isa = PBXBuildFile; fileRef = FA705967262ECC3900D83DEF /* Flock.m */; };
+		FA70596F262EF39500D83DEF /* Calculator.m in Sources */ = {isa = PBXBuildFile; fileRef = FA70596E262EF39500D83DEF /* Calculator.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,8 @@
 		FA705961262ECA9200D83DEF /* Bird.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Bird.m; sourceTree = "<group>"; };
 		FA705966262ECC3900D83DEF /* Flock.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Flock.h; sourceTree = "<group>"; };
 		FA705967262ECC3900D83DEF /* Flock.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Flock.m; sourceTree = "<group>"; };
+		FA70596D262EF39500D83DEF /* Calculator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Calculator.h; sourceTree = "<group>"; };
+		FA70596E262EF39500D83DEF /* Calculator.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Calculator.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +93,8 @@
 				FA705961262ECA9200D83DEF /* Bird.m */,
 				FA705966262ECC3900D83DEF /* Flock.h */,
 				FA705967262ECC3900D83DEF /* Flock.m */,
+				FA70596D262EF39500D83DEF /* Calculator.h */,
+				FA70596E262EF39500D83DEF /* Calculator.m */,
 			);
 			path = model;
 			sourceTree = "<group>";
@@ -166,6 +171,7 @@
 				FA705962262ECA9200D83DEF /* Bird.m in Sources */,
 				FA70594D262EC6FD00D83DEF /* ViewController.m in Sources */,
 				FA705947262EC6FD00D83DEF /* AppDelegate.m in Sources */,
+				FA70596F262EF39500D83DEF /* Calculator.m in Sources */,
 				FA705968262ECC3900D83DEF /* Flock.m in Sources */,
 				FA705958262EC70100D83DEF /* main.m in Sources */,
 				FA70594A262EC6FD00D83DEF /* SceneDelegate.m in Sources */,
